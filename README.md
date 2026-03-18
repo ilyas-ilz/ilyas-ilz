@@ -1,41 +1,75 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhammed Ilyas MK</h1>
+<h3 align="center">MERN Stack Developer | Building Scalable Web Apps 🚀</h3>
 
-# Hi there, I'm Muhammed Ilyas MK 👋
-
-### MERN Stack Developer · React · Node · MongoDB · Building clean, scalable web apps 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=ilyas-ilz&color=6c63ff&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Production+Apps&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
+💻 MERN Stack Developer @ D4DX  
+🚀 Building real-world scalable applications  
+📍 Kerala, India  
 
-I'm a MERN Stack Developer from Malappuram, Kerala, currently building a multi-language Quran platform at D4DX Innovations. I specialize in React, Node.js, Express, and MongoDB — crafting responsive frontends and scalable backend APIs. Passionate about clean code, real-world impact, and continuously learning new technologies.
+- Working on a **multi-language Quran platform**
+- Experience with **API design, backend systems, and performance optimization**
+- Focused on **clean code & scalable architecture**
 
-## 💻 Tech Stack
+---
 
-![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node%2Ejs-339933?style=flat-square&logo=node.js&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next%2Ejs-000000?style=flat-square&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) 
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,git,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📖 Quran Platform
+- 🌍 Multi-language support (6+ languages)  
+- 🎧 Multi-audio streaming  
+- 🤖 AI chatbot integration  
+
+### 🎬 Zaitoon Kids Platform
+- Backend for videos, PDFs, and content delivery  
+- Quiz & activity system  
+- Scalable API architecture  
+
+### 🏢 Mahal Management System
+- Community & family data system  
+- Admin dashboard & reports  
+- Structured APIs  
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyas-ilz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-ilz&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyas-ilz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilyas-ilz&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 📬 Let's Connect
-
-- 📧 [ilyasibnusalam.mk@gmail.com](mailto:ilyasibnusalam.mk@gmail.com)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ilyas-ilz&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilyas-ilz&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-*⭐ If you find my work interesting, consider giving it a star!*
+---
 
-</div>
+## 🤝 Connect with Me
+<p>
+  📧 ilyasibnusalam.mk@gmail.com  
+</p>
+
+---
+
+⭐ If you like my work, consider giving a star!
