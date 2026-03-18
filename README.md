@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm ilyas-ilz 👋
+# Hi there, I'm Muhammed Ilyas MK 👋
 
-### Developer & creator
+### MERN Stack Developer · React · Node · MongoDB · Building clean, scalable web apps 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ilyas-ilz&color=6c63ff&style=flat-square)
 
