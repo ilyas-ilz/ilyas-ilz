@@ -26,6 +26,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ilyas-ilz/ilyas-ilz/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 📖 Quran Platform
@@ -48,12 +56,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyas-ilz&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-ilz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilyas-ilz&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyas-ilz&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jahfarjs&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jahfarjs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
