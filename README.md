@@ -36,22 +36,57 @@
 
 ## 📌 Featured Projects
 
-### 📖 Quran Platform
-- 🌍 Multi-language support (6+ languages)  
-- 🎧 Multi-audio streaming  
-- 🤖 AI chatbot integration  
+### 🏢 Mployedin — AI-Powered Recruitment Platform
+*Developed at D4DX*
 
-### 🎬 Zaitoon Kids Platform
-- Backend for videos, PDFs, and content delivery  
-- Quiz & activity system  
-- Scalable API architecture  
+- 👥 Multi-role recruitment ecosystem with Admin, Agent, Employer & Job Seeker workflows
+- 🤖 AI-powered job creation, CV parsing, candidate matching & skills gap analysis
+- 📊 Full hiring pipeline with analytics, messaging, subscriptions & multilingual RTL support
+- 🔐 Enterprise features: RBAC permissions, GDPR tools, exports & audit systems
 
-### 🏢 Mahal Management System
-- Community & family data system  
-- Admin dashboard & reports  
-- Structured APIs  
+**Tech:** React, Node.js, Express, MongoDB, Socket.IO
 
 ---
+
+### 📊 Analatycs — Self-Hosted Analytics Dashboard
+- 📈 Real-time analytics dashboard with charts, retention tracking & session monitoring
+- 🔑 API-key based event ingestion for web & Flutter applications
+- 📤 PDF exports, email reports & dual REST/GraphQL API architecture
+- 🌙 Built with Next.js 16, React 19, MongoDB & TypeScript
+
+---
+
+### 🤝 Solidarity — Members Management System
+- 👥 Complete member lifecycle management with transfers & approval workflows
+- 💰 Treasury/payment tracking, meetings, targets & organization-wide notifications
+- 🏗️ Hierarchical access control from State Admin → Halqa leaders
+- 📊 Consolidated dashboards and reporting systems
+
+**Tech:** React, Vite, shadcn/ui, Node.js, MongoDB
+
+---
+
+### 📖 Thafheem — Quran Platform
+- 🌍 Multi-language Quran platform with tafsir, tajweed & study tools
+- 🎧 Multi-audio streaming, bookmarks, quizzes & educational content systems
+- 🔥 Firebase auth, Swagger APIs & scalable backend architecture
+- ⚡ Built using React, Node.js, MySQL, SQLite & Zustand
+
+---
+
+### 🏘️ Mahallu Management System
+- 🏢 Multi-tenant community management platform with isolated tenant architecture
+- 👨‍👩‍👧‍👦 Family registry, accounting, programs & institute management
+- 📊 Reports, analytics dashboards & AWS S3 file storage integration
+- 🔐 OTP authentication with scalable backend APIs
+
+---
+
+### 🎬 Zaitoon Kids Platform
+- 📹 Educational kids platform with videos, stories, puzzles & quiz systems
+- 🏆 Leaderboards, analytics tracking & Razorpay subscription integration
+- 🔔 Firebase push notifications with scalable content delivery architecture
+- ⚡ Built using React, Node.js, MongoDB, Firebase & AWS S3
 
 ## 📊 GitHub Stats
 
